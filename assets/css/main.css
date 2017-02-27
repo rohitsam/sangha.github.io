@@ -2603,7 +2603,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("https://github.com/rohitsam/sangha.github.io/blob/master/images/banner.JPG");
+		background-image: url("../../images/Banner.JPG");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
